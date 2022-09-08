@@ -1,4 +1,4 @@
-Created and presented by Ya'eer Kidron & Yulia Ryvkin & Yair Toledano
+Created and presented by Ya'eer Kidron, Yair Toledano & Yulia Ryvkin 
 # Malicious-URL-Detection
 
 Malicious websites are a known threat, which are used by perpetrators to control victims’ machines or get their data remotely.
